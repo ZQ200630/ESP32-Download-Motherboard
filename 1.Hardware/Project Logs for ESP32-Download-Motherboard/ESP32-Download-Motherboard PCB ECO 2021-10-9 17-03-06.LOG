@@ -1,0 +1,101 @@
+Change component parameters: Designator = "R1"; Footprint = "R 0603_L"; UniqueID = "\IIDBAQRD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R 0603_L"; UniqueID = "\GTJXVANV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R 0603_L"; UniqueID = "\FKLVVUEU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R 0603_L"; UniqueID = "\ERGDVHCE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R 0603_L"; UniqueID = "\MHLWEQXE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "C 0603_L"; UniqueID = "\VNXGVIDW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C 0603_L"; UniqueID = "\PPFORXXY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C 0603_L"; UniqueID = "\EELHWAGI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Added Component: Designator=J2(MINI_PCIE_CONN_3130)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Associated Product"; Value = "670-2277-2-ND-CONNMINIEXPRESSCARDLATCHSMD670-2277-1-ND-CONNMINIEXPRESSCARDLATCHSMD670-2277-6-ND-CONNMINIEXPRESSCARDLATCHSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Thickness"; Value = "0.039"(1.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Type"; Value = "PCIExpressMiniCard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "MM60SeriesSideMM60SeriesTop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "3.9μin(0.10μm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0147-6E_MM60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CardEdgeConnectors-EdgeboardConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "MM60PCIeMiniCardConnector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "BoardGuide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flange Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MM60-52B1-E1-R650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jaeusa.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Insulation"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Bay/Row"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MM60Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C~85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "670-2275-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "CardSelectionGuide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "52-Pin Surface Mount Device, Body 28.4 x 10 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MM60-52B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "https://datasheet.ciiva.com/7633/332207-7633323.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. 2, 01/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.031"(0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "MM60PCIeMiniCardConnectorMemoryModules,theSM3andMM60SeriesofConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Read Out"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MM60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=J2-1
+Added Pin To Net: NetName=+3.3 Pin=J2-2
+Added Pin To Net: NetName=+3.3 Pin=J2-3
+Added Pin To Net: NetName=+3.3 Pin=J2-4
+Added Pin To Net: NetName=+3.3 Pin=J2-5
+Added Pin To Net: NetName=+3.3 Pin=J2-6
+Added Pin To Net: NetName=+3.3 Pin=J2-7
+Added Pin To Net: NetName=+3.3 Pin=J2-8
+Added Pin To Net: NetName=+5 Pin=J2-9
+Added Pin To Net: NetName=+5 Pin=J2-10
+Added Pin To Net: NetName=+5 Pin=J2-11
+Added Pin To Net: NetName=+5 Pin=J2-12
+Added Pin To Net: NetName=+5 Pin=J2-13
+Added Pin To Net: NetName=+5 Pin=J2-14
+Added Pin To Net: NetName=EN Pin=J2-15
+Added Pin To Net: NetName=+5 Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=GND Pin=J2-23
+Added Pin To Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-27
+Added Pin To Net: NetName=GND Pin=J2-29
+Added Pin To Net: NetName=GND Pin=J2-31
+Added Pin To Net: NetName=GND Pin=J2-33
+Added Pin To Net: NetName=GND Pin=J2-35
+Added Pin To Net: NetName=IO2 Pin=J2-40
+Added Pin To Net: NetName=IO0 Pin=J2-41
+Added Pin To Net: NetName=TXD Pin=J2-48
+Added Pin To Net: NetName=RXD Pin=J2-50
+Added Member To Class: ClassName=ESP32-Download-Motherboard Member=Component J2 MM60-52B1-E1-R650
